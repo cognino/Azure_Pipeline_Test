@@ -1,1 +1,12 @@
-pip install pandas
+python-crontab
+requests
+pathlib
+pandas
+beautifulsoup4
+openapi-codec
+lxml
+pdfkit
+openpyxl
+PyMuPDF
+pymongo
+python-dotenv
